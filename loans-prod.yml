@@ -1,5 +1,5 @@
 build:
-  version: "100"
+  version: "02"
 
 loans:
   message: "Hey, welcome to EazyBank loans related prod APIs "
